@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sonsoles
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40> Hi there, I'm Sonsoles
 
 🎓 Dual Bachelor's in Computer Science & Business @ UC3M  
 🌍 Erasmus @ INSA Rouen · 🇫🇷 DELF B2 · 🇬🇧 Cambridge Advanced  
@@ -22,7 +22,7 @@
 - Products that combine usability, impact and technical elegance.
 
 
-### 📚 Selected Academic & Personal Projects
+### 📚 Selected Academic Projects
 
 - **ML Pipeline: Wind Forecasting**  
   End-to-end regression system using Scikit-learn for renewable energy prediction. Includes EDA, feature engineering, tuning and deployment.
