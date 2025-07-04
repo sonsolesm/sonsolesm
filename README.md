@@ -35,6 +35,15 @@
 
 - **IoT Digital Twin**  
   Connected Raspberry Pi devices to Google Cloud via MQTT. Simulated digital twins using Dockerized components.
+  
+- **Donkey Kong with Pyxel**  
+  Designed and coded a retro-style platformer game using Python and the Pyxel game engine. Includes animations, collision logic, and pixel-based gameplay.
+
+- **Ubiquitous Shopping Assistant**  
+  Mobile web app for elderly shoppers. Combines QR scanning, NFC, voice commands, and real-time support via WebSockets. Designed with accessibility-first UX.
+
+> 📌 I'm continuously uploading academic projects and personal experiments, more coming soon!!!
+
 
 
 ### 🛠 Languages & Tools
