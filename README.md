@@ -55,18 +55,10 @@
 </p>
 
 
-### 💡 Engineering mindset
-
-- **Clarity over cleverness**: Prioritize readable, maintainable code.
-- **Simplify relentlessly**: Remove complexity unless it's absolutely necessary.
-- **Own the result**: I take full responsibility from idea to deployment.
-- **Think in systems**: Build for reuse, testability, and scale.
-
-
 ### ✨ About me
 
-Curious and driven engineer passionate about optimization, ML, and building useful systems.  
-I thrive in high-trust, ambitious teams and always look for the "why" behind the "what".
+Curious and driven engineer passionate about building reliable, efficient, and scalable systems.  
+I enjoy working in collaborative teams and always dig into the "why" behind the "what".
 
 
 ### 🤝 Connect With Me
